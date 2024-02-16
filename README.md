@@ -2,7 +2,7 @@
 
 ### <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHicyilmaz&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Typing SVG" />
 
-### <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Vue.js%20Projects" alt="Top Vue.js Projects" />
+### <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHicyilmaz&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Vue.js%20Projects" alt="Top Vue.js Projects" />
 
 <!--
 **IbrahimHicyilmaz/IbrahimHicyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
